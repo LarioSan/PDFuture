@@ -7,35 +7,42 @@ You simply enter your personal data in the designated fields and press the green
 Fully private. NO TRACKING. Works completely offline. ZERO ADS. Free and lightweight.  
 Below you will find clear photos of the software, each briefly explained.
 
-
+<br>
+<br>
 
 THIS IS HOW THE SOFTWARE START :
 
-
+<br>
+<br>
 
 
 <img width="1920" height="1200" alt="Screenshot (2234)" src="https://github.com/user-attachments/assets/bda29782-3cdf-4673-9ea7-b5b86bece636" />
 
-
+<br>
+<br>
 
 
 YOU CAN CHOOSE FROM 5 DIFFERENTES LANGUAGES :
 
-
+<br>
+<br>
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/129e23d1-22af-4cc6-b1cd-88ef2090de0c" />
 
-
+<br>
+<br>
 
 ON THE LEFT THERE ARE THE PDF TOOLS; THEY ARE FAST AND SIMPLE. UPLOAD YOUR FILE, DO YOUR CHANGES AND JUST CLICK THE GREEN BUTTON. EVERY MENU WORKS IN THE SAME WAY. THEN YOU WILL HAVE YOUR NEW PDF EXPORTED IN LESS THAN A SEC.
 
 
-
+<br>
+<br>
 
 
 <img width="1920" height="1200" alt="Screenshot (2266)" src="https://github.com/user-attachments/assets/cf551d32-ff8f-4482-9ea4-07dafc876bb7" />
 
-
+<br>
+<br>
 
 
 
