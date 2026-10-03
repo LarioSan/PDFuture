@@ -107,6 +107,21 @@ Here is an example of how the obscure feature works. Simply upload the document 
 <br>
 
 The same with the search words tool, but one word at time. You insert the world you want to find in the documents, and the sotware will immediatly tell you where are those words! For example : TAX DOC : pages 1, 5, 10, then you write another word   for example Jose´: pages 3, 102, 304 ecc...
+
+<br>
+<img width="1920" height="1200" alt="Screenshot (2262)" src="https://github.com/user-attachments/assets/2d1e9d44-cb55-4f08-997a-4364a5e1c5e3" />
+
+<br>
+<br>
 <br>
 
-<img width="1920" height="1200" alt="Screenshot (2262)" src="https://github.com/user-attachments/assets/2d1e9d44-cb55-4f08-997a-4364a5e1c5e3" />
+With image tool you can convert a photo to a pdf file and a pdf file into a photo in the maximum quality possible : 
+<br>
+
+<img width="1920" height="1200" alt="Screenshot (2270)" src="https://github.com/user-attachments/assets/378149b1-95ec-48dc-9ba8-1a25b01bc8fd" />
+
+
+AND SO ON WITH EVERY OTHER TOOL OF THE SOFTWARE : MERGE PDF; SPLIT PDF PAGES; INTELLIGENT COMPRESSION. 
+<br>
+<br>
+CLICKING ON "SUPPORT THIS PROJECT" YOU CAN OFFER ME A COOFFEE FOR THIS AND MY FUTURE WORKS: THANK´S FOR THE ATTENTION!!
