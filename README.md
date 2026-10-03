@@ -122,10 +122,11 @@ With image tool you can convert a photo to a pdf file and a pdf file into a phot
 <br>
 <br>
 <br>
-
-AND SO ON WITH EVERY OTHER TOOL OF THE SOFTWARE : MERGE PDF; SPLIT PDF PAGES; INTELLIGENT COMPRESSION. 
-LINUX USERS CAN JUST USE THE CODE AND OPEN THE SOFTWARE FROM THEIR VS-CODIUM OR SIMILAR SOFTWARE.
-CLICKING ON "SUPPORT THIS PROJECT" YOU CAN OFFER ME A COOFFEE FOR THIS AND MY FUTURE WORKS: THANK´S FOR THE ATTENTION !
+<br>
+<br>
+"And so on with every other tool of the software: Merge PDF; Split PDF pages; Intelligent compression.
+Linux users can just use the code and open the software from their VS-Codium or similar software.
+Clicking on "Support this project" you can offer me a coffee for this and my future works: thanks for the attention!"
 <br>
 <br>
 <br>
