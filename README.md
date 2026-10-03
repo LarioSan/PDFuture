@@ -119,9 +119,20 @@ With image tool you can convert a photo to a pdf file and a pdf file into a phot
 <br>
 
 <img width="1920" height="1200" alt="Screenshot (2270)" src="https://github.com/user-attachments/assets/378149b1-95ec-48dc-9ba8-1a25b01bc8fd" />
-
+<br>
+<br>
+<br>
 
 AND SO ON WITH EVERY OTHER TOOL OF THE SOFTWARE : MERGE PDF; SPLIT PDF PAGES; INTELLIGENT COMPRESSION. 
+LINUX USERS CAN JUST USE THE CODE AND OPEN THE SOFTWARE FROM THEIR VS-CODIUM OR SIMILAR SOFTWARE.
+CLICKING ON "SUPPORT THIS PROJECT" YOU CAN OFFER ME A COOFFEE FOR THIS AND MY FUTURE WORKS: THANK´S FOR THE ATTENTION !
 <br>
 <br>
-CLICKING ON "SUPPORT THIS PROJECT" YOU CAN OFFER ME A COOFFEE FOR THIS AND MY FUTURE WORKS: THANK´S FOR THE ATTENTION!!
+<br>
+
+ENJOY the PDFuture 
+
+<br>
+<br>
+<br>
+❤️❤️❤️❤️❤️❤️
