@@ -4,6 +4,8 @@
 Fully private. NO TRACKING. Works completely offline. ZERO ADS. Free and lightweight.  
 Below you will find clear photos of the software, each briefly explained.
 
+It´s a single file .exe , NOTHING TO INSTALL.
+
 It contains a bureaucratic hub, currently offering four pre‑formatted pages for the following widely used documents: W‑8 BEN Assistant, Mutual NDA Contract, Cease and Desist Order, and Occasional Work Receipt, which automatically calculates the 20% withholding tax — this last one is for Italians only.
 You simply enter your personal data in the designated fields and press the green creation button to export the file as a PDF to your PC in a millisecond.
 
@@ -127,6 +129,7 @@ With image tool you can convert a photo to a pdf file and a pdf file into a phot
 "And so on with every other tool of the software: Merge PDF; Split PDF pages; Intelligent compression.
 Linux users can just use the code and open the software from their VS-Codium or similar software.
 Clicking on "Support this project" you can offer me a coffee for this and my future works: thanks for the attention!"
+PS : the file .exe can take some seconds before to start, it´s completly normal, after that time, it will be incredibly fast.
 <br>
 <br>
 <br>
