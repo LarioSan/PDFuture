@@ -56,12 +56,8 @@ ON THE LEFT THERE ARE THE PDF TOOLS; THEY ARE FAST AND SIMPLE. UPLOAD YOUR FILE,
 <br>
 
 Now i will expose you the Burocratic Hub : on the right you can see that gold button. it will open the menu here below ⬇️ 
-There are 4 highly common documents used globally.
+There are 4 highly common documents used globally :
 <br>
-<br>
-<br>
-
-
 <img width="1920" height="1200" alt="Screenshot (2239)" src="https://github.com/user-attachments/assets/1be905d8-d461-4c2e-a6bb-743fa2c5f129" />
 
 <br>
@@ -69,7 +65,7 @@ There are 4 highly common documents used globally.
 <br>
 <br>
 
-Simply enter your information in the designated fields.
+Simply enter your informations in the designated fields :
 <br>
 <br>
 <br>
