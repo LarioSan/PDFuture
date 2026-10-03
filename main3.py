@@ -360,7 +360,7 @@ class HubPraticheLegali(ctk.CTk):
                 hover_color="#91733E",
                 corner_radius=9,
                 # Apre stabilmente il link di rilascio di GitHub al clic del mouse
-                command=lambda: webbrowser.open("https://github.com")
+                command=lambda: webbrowser.open("https://github.com/LarioSan/PDFuture/releases")
             )
             # La coordinata perfetta calibrata in asse con il tasto di esecuzione verde
             self.btn_upgrade_element.place(relx=0.5, rely=1.0, x=145, y=-6, anchor="s")
