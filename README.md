@@ -10,6 +10,7 @@ It contains a bureaucratic hub, currently offering four pre‑formatted pages fo
 You simply enter your personal data in the designated fields and press the green creation button to export the file as a PDF to your PC in a millisecond.
 
 
+
 <br>
 <br>
 
@@ -130,6 +131,21 @@ With image tool you can convert a photo to a pdf file and a pdf file into a phot
 Linux users can just use the code and open the software from their VS-Codium or similar software.
 Clicking on "Support this project" you can offer me a coffee for this and my future works: thanks for the attention!"
 PS : the file .exe can take some seconds before to start, it´s completly normal, after that time, it will be incredibly fast.
+<br>
+<br>
+<br>
+## 🛡️ Security & Anti-Virus Notice (False Positives)
+
+When downloading and running the standalone `.exe` file, Windows SmartScreen or your anti-virus software might show a warning (e.g., "Unknown Publisher" or "Potential Threat"). 
+
+**Please rest assured that PDFuture is 100% safe and malware-free.**
+
+### Why does this happen?
+* **No Digital Certificate:** The executable is built as a single standalone file for easy use. Because it is an independent, open-source project, the binary is not digitally signed with an expensive commercial certificate.
+* **Fully Open Source:** You don't have to take our word for it! Since this project is fully open source, you can inspect every single line of code right here in this repository (`main3.py`, `compress_ui.py`, etc.) to verify its safety yourself before running it.
+
+If you encounter a warning, you can safely select **"Run anyway"** or add an exception to your anti-virus. Linux users can also run the software directly from the source code via VS-Codium.
+
 <br>
 <br>
 <br>
