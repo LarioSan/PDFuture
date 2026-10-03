@@ -51,10 +51,12 @@ ON THE LEFT THERE ARE THE PDF TOOLS; THEY ARE FAST AND SIMPLE. UPLOAD YOUR FILE,
 
 <img width="1920" height="1200" alt="Screenshot (2267)" src="https://github.com/user-attachments/assets/048c0639-72b4-4e97-989c-9aeab2a786a1" />
 
+<br>
+<br>
+<br>
 
 Now i will expose you the Burocratic Hub : on the right you can see that gold button. it will open the menu here below ⬇️ 
 There are 4 highly common documents used globally.
-<br>
 <br>
 <br>
 <br>
