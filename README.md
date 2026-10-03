@@ -78,13 +78,9 @@ Simply enter your informations in the designated fields :
 <br>
 <br>
 
-
-Click the 'Generate' button to instantly create your chosen document using the information you entered. It is valid, fast, and ready to be sent in its official format.
+Click the 'Generate' button to instantly create your chosen document using the information you entered. It is valid, fast, and ready to be sent in its official format :
 
 <br>
-<br>
-<br>
-
 
 <img width="1920" height="1200" alt="Screenshot (2249)" src="https://github.com/user-attachments/assets/5a422bc3-b7ab-4f75-a12d-83dbba3f345b" />
 
